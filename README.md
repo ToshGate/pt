@@ -1,2 +1,2 @@
-- **M3U**: <https://raw.githubusercontent.com/ToshGate/IPTV/main/SOURCE/pt-pt.m3u>
+- **M3U**: <https://raw.githubusercontent.com/ToshGate/pt/main/SOURCE/pt-pt.m3u>
 - **EPG**: <https://m3upt.com/epg>
